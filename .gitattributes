@@ -2,3 +2,5 @@
 *.jld2 filter=lfs diff=lfs merge=lfs -text
 *.hdf5 filter=lfs diff=lfs merge=lfs -text
 *.gz filter=lfs diff=lfs merge=lfs -text
+q1_q17_dr24_stellar.csv filter=lfs diff=lfs merge=lfs -text
+q1_q17_dr25_stellar.csv filter=lfs diff=lfs merge=lfs -text
